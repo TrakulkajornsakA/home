@@ -1,0 +1,222 @@
+html
+{
+	background-image: url("images/cloud9_2.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+
+@font-face
+{
+	font-family: DemonBreeze;
+	src: url(fonts/devil_breeze.otf);
+}
+
+@font-face
+{
+	font-family: UbuntuCondensed;
+	src: url(fonts/ubuntu_condensed.ttf)
+}
+
+a:link
+{
+	color: #00abff;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #00abff;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: blue;
+}
+
+h1
+{	
+	background-color: #93d6ff;
+	border-radius: 25px;
+	padding: 15px 15px;
+	font-size: 300%;
+	font-family: DemonBreeze;
+	position: fixed;
+	width: 86%;
+	left: 6%;
+	word-spacing: 20px;
+	text-indent: 100px;
+	margin: 0%
+	
+}
+
+#introduction
+{
+	font-size: 350%;
+	color: #00abff;
+	font-family: DemonBreeze;
+	text-align: center;
+	background: none;
+}
+
+#content
+{
+	line-height: 30px;
+	font-size: 150%;
+	margin:0% 10% 0% 10%;
+	background: #82b1ff;
+	padding: 30px 40px;
+	font-family: UbuntuCondensed;
+	text-align: center;
+	color:#0066ff;
+}
+
+#content2
+{
+	line-height: 30px;
+	font-size: 150%;
+	margin:0% 10% 0% 10%;
+	background: #82b1ff;
+	padding: 30px 40px;
+	font-family: UbuntuCondensed;
+	text-align: center;
+	color:#0066ff;
+}
+
+#content3
+{
+	line-height: 30px;
+	font-size: 150%;
+	margin:0% 10% 0% 10%;
+	background: #82b1ff;
+	padding: 30px 40px;
+	font-family: UbuntuCondensed;
+	text-align: center;
+	color:#0066ff;
+}
+
+#content4
+{
+	line-height: 30px;
+	font-size: 150%;
+	margin:0% 10% 0% 10%;
+	background: #82b1ff;
+	padding: 30px 40px;
+	font-family: UbuntuCondensed;
+	text-align: center;
+	color:#0066ff;
+}
+
+#content5
+{
+	line-height: 30px;
+	font-size: 150%;
+	margin:0% 10% 0% 10%;
+	background: #82b1ff;
+	padding: 30px 40px;
+	font-family: UbuntuCondensed;
+	text-align: center;
+	color:#0066ff;
+}
+
+#content6
+{
+	line-height: 30px;
+	font-size: 150%;
+	margin:0% 10% 0% 10%;
+	background: #82b1ff;
+	padding: 30px 40px;
+	font-family: UbuntuCondensed;
+	text-align: center;
+	color:#0066ff;
+}
+
+#content7
+{
+	line-height: 30px;
+	font-size: 150%;
+	margin:0% 10% 0% 10%;
+	background: #82b1ff;
+	padding: 30px 40px;
+	font-family: UbuntuCondensed;
+	text-align: center;
+	color:#0066ff;
+}
+
+#list
+{
+	font-size: 150%;
+	margin:0% 10% 0% 10%;
+	background: #82b1ff;
+	font-family: UbuntuCondensed;
+	color:#0066ff;
+}
+
+#thirteen
+{
+	line-height: 30px;
+	font-size: 200%;
+	margin:0% 10% 0% 10%;
+	background: #82b1ff;
+	padding: 30px 40px;
+	font-family: UbuntuCondensed;
+	text-align: center;
+	color:#0066ff;
+}
+
+#fourteen
+{
+	line-height: 30px;
+	font-size: 200%;
+	margin:0% 10% 0% 10%;
+	background: #82b1ff;
+	padding: 30px 40px;
+	font-family: UbuntuCondensed;
+	text-align: center;
+	color:#0066ff;
+}
+
+#fifteen
+{
+	line-height: 30px;
+	font-size: 200%;
+	margin:0% 10% 0% 10%;
+	background: #82b1ff;
+	padding: 30px 40px;
+	font-family: UbuntuCondensed;
+	text-align: center;
+	color:#0066ff;
+}
+
+#sixteen
+{
+	line-height: 30px;
+	font-size: 200%;
+	margin:0% 10% 0% 10%;
+	background: #82b1ff;
+	padding: 30px 40px;
+	font-family: UbuntuCondensed;
+	text-align: center;
+	color:#0066ff;
+}
+
+
+#seventeen
+{
+	line-height: 30px;
+	font-size: 200%;
+	margin:0% 10% 0% 10%;
+	background: #82b1ff;
+	padding: 30px 40px;
+	font-family: UbuntuCondensed;
+	text-align: center;
+	color:#0066ff;
+}
+
+em
+{
+	font-family: UbuntuCondensed;
+	font-size: 200%;
+}
