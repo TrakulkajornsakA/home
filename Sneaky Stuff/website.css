@@ -61,6 +61,8 @@ h1
 	background: none;
 }
 
+/*can't use same id for more than one element*/
+
 #content
 {
 	line-height: 30px;
